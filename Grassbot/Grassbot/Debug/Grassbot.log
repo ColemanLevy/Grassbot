@@ -1,0 +1,16 @@
+﻿  Vector2D.cpp
+  TextureManager.cpp
+  Map.cpp
+  Main.cpp
+  Game.cpp
+c:\users\okami\desktop\fieaportfolio\projectgamebeg\projectgamebeg\game.cpp(209): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\okami\desktop\fieaportfolio\projectgamebeg\projectgamebeg\game.cpp(210): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\okami\desktop\fieaportfolio\projectgamebeg\projectgamebeg\ecs.h(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  c:\users\okami\desktop\fieaportfolio\projectgamebeg\projectgamebeg\game.cpp(87): note: see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int,int>(int &&,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  Generating Code...
+  ProjectGameBeg.vcxproj -> C:\Users\okami\Desktop\FIEAPortfolio\ProjectGameBeg\Debug\ProjectGameBeg.exe
+  ProjectGameBeg.vcxproj -> C:\Users\okami\Desktop\FIEAPortfolio\ProjectGameBeg\Debug\ProjectGameBeg.pdb (Partial PDB)
